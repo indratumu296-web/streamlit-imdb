@@ -74,11 +74,6 @@ IMDb-Movie-Analytics-Dashboard/
 ├── README.md
 ├── requirements.txt
 ├── imdb_top_250_movies.csv
-└── screenshots/
-    ├── dashboard.png
-    ├── explorer.png
-    └── search.png
-```
 
 ---
 
